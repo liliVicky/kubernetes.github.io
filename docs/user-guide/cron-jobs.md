@@ -183,4 +183,4 @@ cron jobs, their respective jobs are always allowed to run concurrently.
 ### Suspend
 
 The `.spec.suspend` field is also optional. If set to `true`, all subsequent executions will be suspended. It does not
-apply to already started executions. Defaults to false.
+apply to already start executions. Defaults to false.
